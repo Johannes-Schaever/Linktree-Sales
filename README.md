@@ -1,6 +1,8 @@
-QR-Code: Links to international articles, studies, reports, papers, interviews. https://github.com/Johannes-Schaever/Linktree.git
+QR-Code: https://github.com/Johannes-Schaever/Linktree.git
+Links to international articles, studies, reports, papers, interviews.
 Stand: 2025-04-29
 Please Note: This list is short and concise. The total number of studies is over 150 studies, articles and papers. Language is English and German.
+
 
 Creativity and Economy:
 Future of Jobs Report (hier: 2023) - Analytical thinking and creative thinking remain the most important skills for workers in 2023. - World Economic Forum: Future of Jobs 2023 https://www.weforum.org/publications/the-future-of-jobs-report-2023/
