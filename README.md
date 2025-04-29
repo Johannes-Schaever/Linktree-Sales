@@ -1,10 +1,12 @@
-QR-Code: https://github.com/Johannes-Schaever/Linktree.git
-Links to international articles, studies, reports, papers, interviews.
+_QR-Code: https://github.com/Johannes-Schaever/Linktree.git_
+
+_Autor: Johannes Heidingsfelder, Schäver, 81371 München, Inhalt: privat/ Copyright._
+
+_Please Note: This list is short and concise. The total number of studies is over 150 studies, articles and papers. Language is English and German._
+
+# Links to international articles, studies, reports, papers, interviews.
 Stand: 2025-04-29
-Please Note: This list is short and concise. The total number of studies is over 150 studies, articles and papers. Language is English and German.
-
-
-Creativity and Economy:
+### Creativity and Economy:
 Future of Jobs Report (hier: 2023) - Analytical thinking and creative thinking remain the most important skills for workers in 2023. - World Economic Forum: Future of Jobs 2023 https://www.weforum.org/publications/the-future-of-jobs-report-2023/
 
 Future of Jobs Report (hier: 2025) - The core skills Future of Jobs Survey respondents identify as required by workers today. As in the two previous editions of this report, analytical thinking remains the top core skill for employers, with seven out of 10 companies considering it as essential. This is followed by resilience, flexibility and agility, along with leadership and social influence, underscoring the critical role of adaptability and collaboration alongside cognitive skills. Creative thinking and motivation and self-awareness rank fourth and fifth, respectively. This combination of cognitive, self-efficacy and interpersonal skills within the top five emphasizes the importance ascribed by respondents to having an agile, innovative and collaborative workforce, where both problem-solving abilities are critical for success. https://www.weforum.org/publications/the-future-of-jobs-report-2025/
@@ -19,20 +21,20 @@ Was die Wissenschaft darüber weiß, wie Teams kreativ werden. - Das Erstaunlich
 
 „Die Vorteile liegen auf der Hand: Eine starke Kultur trägt Unternehmen durch krisenhafte Phasen, wie eine Fraunhofer-Studie bestätigt. Das Bundesarbeitsministerium beziffert, dass die Unternehmenskultur sogar für bis zu ein Drittel des finanziellen Erfolgs verantwortlich ist.“ Oliver Blüher ist Deutschlandchef des Technologieunternehmens Slack. 08/2021 https://www.zeit.de/2021/08/homeoffice-firmenkultur-flexibilitaet-unternehmen-kommunikation-digitalisierung
 
-Creativity and mental Health:
+### Creativity and mental Health:
 Burn-out oder Depression betreffen fast alle Branchen. WHO Mental Health System Atlas 2020 https://www.who.int/publications/i/item/9789240036703
 How to foster Psychological Safety on your teams, Google https://rework.withgoogle.com/en/guides/understanding-team-effectiveness https://docs.google.com/document/d/1PsnDMS2emcPLgMLFAQCXZjO7C4j2hJ7znOq_g2Zkjgk/edit?tab=t.0
 What is psychological safety at work? Here’s how to start creating it. American Psychology Association, updated 2024, https://www.apa.org/topics/healthy-workplaces/psychological-safety
 
-Creativity
+### Creativity
 Highly creative people travel further in semantic space, switch between more semantic subcategories, and make larger leaps between associations. Creativity involves both free associations, in which concepts are spontaneously connected, and goal-directed associations, in which concepts are strategically combined. - Associative thinking at the core of creativity, Trends in Cognitive Science, Roger E. Beaty, Yoed N. Kenett, 2023 https://doi.org/10.1016/j.tics.2023.04.004
 
-Self Regulation
+### Self Regulation
 Attaining self-regulation: A social cognitive perspective. Zimmerman, B. J. (2000). In M. Boekaerts, P. R. Pintrich & M. Zeidner (Eds.), Handbook of self-regulation (pp. 13–39). San Diego: Academic Press. https://doi.org/10.1016/B978-012109890-2/50031-7
 
 New perspectives for the evaluation of training sessions in self-regulated learning: Time-series analyses of diary data. Schmitz, B., & Wiese, B. S. (2006). Contemporary Educational Psychology, 31(1), 64–96 https://doi.org/10.1016/j.cedpsych.2005.02.002	 https://link.springer.com/chapter/10.1007/978-3-540-88573-3_3
 
-Creativity and NeuroScience, Psychology, Music:
+### Creativity and NeuroScience, Psychology, Music:
 “While creativity has often been associated with “defocused” or “diffuse” states of attention, more recent research has shown that creativity is more closely related to the ability to modulate attention and move dynamically through different states during the creative process. In this way, creative problem solving - and creativity in general - can be linked to a form of dynamic attention.” https://doi.org/10.1037/a0013106 https://read.oecd-ilibrary.org/education/developing-minds-in-the-digital-age_562a8659-en#page173
 Inspired by Distraction: Mind Wandering - Facilitates Creative Incubation, Psychological Science, sagepub.com/journalsPermissions.nav DOI: 10.1177/0956797612446024
 The Brain’s Default Network - Anatomy, Function, and Relevance to Disease, New York Academy of Sciences, doi: 10.1196/annals.1440.011 
@@ -41,7 +43,7 @@ Transfer effects and effects of musical activities on selected areas of personal
 
 We can start from the emotional effects of music and argue that music can be an important element in emotion regulation and in this way has a personality-enhancing effect. https://doi.org/10.1177/0305735607068889 https://doi.org/10.1177/1321103X14560320
 
-Creativity and Arts, Neuro Arts, Musical Care
+### Creativity and Arts, Neuro Arts, Musical Care
 It's Sad but I Like It: The Neural Dissociation Between Musical Emotions and Liking in Experts and Laypersons
 Center for Music in the Brain (MIB), Department of Clinical Medicine, Aarhus University and Royal Academy of Music Aarhus/Aalborg (RAMA), Aarhus, Denmark
 Cognitive Brain Research Unit, Institute of Behavioural Sciences, University of Helsinki, Helsinki, Finland
