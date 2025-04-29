@@ -1,5 +1,3 @@
-_QR-Code: https://github.com/Johannes-Schaever/Linktree.git_
-
 _Autor: Johannes Heidingsfelder, Schäver, 81371 München, Inhalt: privat/ Copyright._
 
 _Please Note: This list is short and concise. The total number of studies is over 150 studies, articles and papers. Language is English and German._
